@@ -1,0 +1,1 @@
+id,productType,name,model,sellingPrice,expiringYear,purchasingPrice,manufacturer,quantity,description
